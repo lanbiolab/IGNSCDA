@@ -1,12 +1,26 @@
 # IGNSCDA
-We propose a new computational model based on improved graph convolutional network and negative sampling to predict circRNA-disease associations. This is the implementation of
-IGNSCDA:
-```
-Lan W, Dong Y, Chen Q, et al. IGNSCDA: Predicting CircRNA-Disease Associations Based on Improved Graph Convolutional Network and Negative Sampling[J]. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2021.
+We propose a new computational model based on improved graph convolutional network and negative sampling to predict circRNA-disease associations. 
 
-```
+Author: Wei Lan. Yi Dong. Qingfeng Chen. Jin Liu. Jianxin Wang. Yi-Ping Phoebe Chen. Shirui Pan
+
+Paper: https://ieeexplore.ieee.org/document/9535297
 
 The code is inspired by Neural Graph Collabrorative Filtering, Xiang wang, Xiangnan He, Meng Wang et al. In SIGIR'19,PAris,France,July 21-25,2019.
+
+# Citation
+If you want to use our codes and datasets in your research, please cite:
+
+```
+@ARTICLE{9535297,
+  author={Lan, Wei and Dong, Yi and Chen, Qingfeng and Liu, Jin and Wang, Jianxin and Chen, Yi-Ping Phoebe and Pan, Shirui},
+  journal={IEEE/ACM Transactions on Computational Biology and Bioinformatics}, 
+  title={IGNSCDA: Predicting CircRNA-Disease Associations Based on Improved Graph Convolutional Network and Negative Sampling}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TCBB.2021.3111607}}
+```
 
 # Environment Requirement
 + python == 3.6
