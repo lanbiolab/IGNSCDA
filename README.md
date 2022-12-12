@@ -57,4 +57,4 @@ with h5py.File('./disease-circRNA.h5', 'r') as f:
 +  sortscore.py: The prediction score of each circRNA-disease pair is sorted in this file before computing the AUC/AUPR.
 
 # Questions
-+ If you have any questions or find the problems in this paper or code, please contact with me: Yi Dong: dongyi@st.gxu.edu.cn
++ If you have any questions or find the problems in this paper or code, please contact with me: Yi Dong: dongyi6463@163.com
